@@ -1,6 +1,6 @@
 ## Requirements Login Page
 
-The customer, if he has an account, can log in at any time. For this page you will be asked to enter information in two fields, email ID and password.
+If customer has an account, can log in at any time. For this page you will be asked to enter information in two fields, email ID and password.
 
 ## Required Fields
 
